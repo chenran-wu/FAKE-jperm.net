@@ -1,4 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Asap:ital@1&display=swap');
 body {
     background-color: rgb(26, 26, 26);
+    margin: 0;
+}
+.choise {
+    color: white;
+    font-family: 'Asap', "sans-serif";
+}
+.tutorial {
+    background-color: rgb(41, 41, 41);
+}
+button {
+    background-color: white; 
 }
